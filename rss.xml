@@ -3,8 +3,8 @@
     <channel>
         <title>personal blog</title>
         <subtitle></subtitle>
-        <icon>https://phrism.info/images/favicon.ico</icon>
-        <link>https://phrism.info</link>
+        <icon>https://blog.phrism.info/images/favicon.ico</icon>
+        <link>https://blog.phrism.info</link>
         <author>
           <name>phrism wang</name>
         </author>
@@ -13,10 +13,10 @@
         <pubDate>Mon, 16 Oct 2023 02:08:16 +0000</pubDate>
         <lastBuildDate>Mon, 16 Oct 2023 02:08:16 +0000</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://phrism.info/HTB-Drive-Walkthrough/</guid>
+            <guid isPermalink="true">https://blog.phrism.info/HTB-Drive-Walkthrough/</guid>
             <title>HTB Drive Walkthrough</title>
-            <link>https://phrism.info/HTB-Drive-Walkthrough/</link>
-            <category term="HTB" scheme="https://phrism.info/tags/HTB/" />
+            <link>https://blog.phrism.info/HTB-Drive-Walkthrough/</link>
+            <category term="HTB" scheme="https://blog.phrism.info/tags/HTB/" />
             <pubDate>Mon, 16 Oct 2023 02:08:16 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;htb-drive-walkthrough&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#htb-drive-walkthrough&#34;&gt;#&lt;/a&gt; HTB Drive Walkthrough&lt;/h1&gt;
 &lt;p&gt;2023-10-16&lt;/p&gt;
@@ -77,10 +77,10 @@ Then I find a evil.c on the internet and compile it into &lt;span class=&#34;ext
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://phrism.info/winAD-APT/</guid>
+            <guid isPermalink="true">https://blog.phrism.info/winAD-APT/</guid>
             <title>winAD-APT</title>
-            <link>https://phrism.info/winAD-APT/</link>
-            <category term="self_develop" scheme="https://phrism.info/tags/self-develop/" />
+            <link>https://blog.phrism.info/winAD-APT/</link>
+            <category term="self_develop" scheme="https://blog.phrism.info/tags/self-develop/" />
             <pubDate>Sat, 14 Oct 2023 04:33:47 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;windows-ad-auto-pentest-tool&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows-ad-auto-pentest-tool&#34;&gt;#&lt;/a&gt; Windows AD Auto Pentest Tool&lt;/h1&gt;
 &lt;h2 id=&#34;introduce&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduce&#34;&gt;#&lt;/a&gt; Introduce&lt;/h2&gt;

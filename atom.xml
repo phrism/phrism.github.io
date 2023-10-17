@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://phrism.info</id>
+    <id>https://blog.phrism.info</id>
     <title>personal blog</title>
     <subtitle></subtitle>
-    <icon>https://phrism.info/images/favicon.ico</icon>
-    <link href="https://phrism.info" />
+    <icon>https://blog.phrism.info/images/favicon.ico</icon>
+    <link href="https://blog.phrism.info" />
     <author>
       <name>phrism wang</name>
     </author>
     <updated>2023-10-16T02:08:16.000Z</updated>
     <entry>
-        <id>https://phrism.info/HTB-Drive-Walkthrough/</id>
+        <id>https://blog.phrism.info/HTB-Drive-Walkthrough/</id>
         <title>HTB Drive Walkthrough</title>
-        <link rel="alternate" href="https://phrism.info/HTB-Drive-Walkthrough/"/>
+        <link rel="alternate" href="https://blog.phrism.info/HTB-Drive-Walkthrough/"/>
         <content type="html">&lt;h1 id=&#34;htb-drive-walkthrough&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#htb-drive-walkthrough&#34;&gt;#&lt;/a&gt; HTB Drive Walkthrough&lt;/h1&gt;
 &lt;p&gt;2023-10-16&lt;/p&gt;
 &lt;h2 id=&#34;basic-information&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#basic-information&#34;&gt;#&lt;/a&gt; Basic Information&lt;/h2&gt;
@@ -70,13 +70,13 @@ Then I find a evil.c on the internet and compile it into &lt;span class=&#34;ext
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbG91ZC50ZW5jZW50LmNvbS9kZXZlbG9wZXIvYXJ0aWNsZS8yMjg4MDY1&#34;&gt; https://cloud.tencent.com/developer/article/2288065&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="HTB" scheme="https://phrism.info/tags/HTB/" />
+        <category term="HTB" scheme="https://blog.phrism.info/tags/HTB/" />
         <updated>2023-10-16T02:08:16.000Z</updated>
     </entry>
     <entry>
-        <id>https://phrism.info/winAD-APT/</id>
+        <id>https://blog.phrism.info/winAD-APT/</id>
         <title>winAD-APT</title>
-        <link rel="alternate" href="https://phrism.info/winAD-APT/"/>
+        <link rel="alternate" href="https://blog.phrism.info/winAD-APT/"/>
         <content type="html">&lt;h1 id=&#34;windows-ad-auto-pentest-tool&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows-ad-auto-pentest-tool&#34;&gt;#&lt;/a&gt; Windows AD Auto Pentest Tool&lt;/h1&gt;
 &lt;h2 id=&#34;introduce&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduce&#34;&gt;#&lt;/a&gt; Introduce&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;/self_develop/winAD-APT/0.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
@@ -112,7 +112,7 @@ WinAD-APT, is the windwos active directory auto pentesting tool&#39;s abbreviati
 &lt;p&gt;In ViewFile, you can view and edit the user and password file stored on your system, and save them from the ui, you can also use notes to take notes whenever you like, please do not forget to pres the save button!&lt;br /&gt;
 &lt;img data-src=&#34;/self_develop/winAD-APT/5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="self_develop" scheme="https://phrism.info/tags/self-develop/" />
+        <category term="self_develop" scheme="https://blog.phrism.info/tags/self-develop/" />
         <updated>2023-10-14T04:33:47.000Z</updated>
     </entry>
 </feed>
